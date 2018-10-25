@@ -6,8 +6,8 @@
       "price": 19.9,
       "artist": "Santa",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_1.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -21,8 +21,8 @@
       "price": 192.9,
       "artist": "Paloma",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_2.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -36,8 +36,8 @@
       "price": 130.2,
       "artist": "Lea Michelle",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_3.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -51,8 +51,8 @@
       "price": 200,
       "artist": "Collbie caillat",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_4.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -66,8 +66,8 @@
       "price": 36.7,
       "artist": "Kate",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_5.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -81,8 +81,8 @@
       "price": 100,
       "artist": "Rozes",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_1.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -96,8 +96,8 @@
       "price": 300.9,
       "artist": "Sia",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_2.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -111,8 +111,8 @@
       "price": 193.9,
       "artist": "Lea Michele",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_3.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -130,8 +130,8 @@
       "price": 130,
       "artist": "Sia",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_4.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -145,8 +145,8 @@
       "price": 22.22,
       "artist": "Nicki Minaj",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_5.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -160,8 +160,8 @@
       "price": 40.22,
       "artist": "Aventura",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_1.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -175,8 +175,8 @@
       "price": 192,
       "artist": "Disney",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_2.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -190,8 +190,8 @@
       "price": 80.1,
       "artist": "Netta",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_3.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -205,8 +205,8 @@
       "price": 100.3,
       "artist": "Britney",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_4.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -220,8 +220,8 @@
       "price": 223.92,
       "artist": "Lizzo",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_5.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -235,8 +235,8 @@
       "price": 77.9,
       "artist": "Maroon",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_1.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -250,8 +250,8 @@
       "price": 12.9,
       "artist": "Aventura",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_2.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -265,8 +265,8 @@
       "price": 45,
       "artist": "Clavin Harris",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_4.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -280,8 +280,8 @@
       "price": 192.9,
       "artist": "slawomir",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_5.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -295,8 +295,8 @@
       "price": 30.8,
       "artist": "Krewella",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_1.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -310,8 +310,8 @@
       "price": 19.9,
       "artist": "Dua lip",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_2.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -325,8 +325,8 @@
       "price": 20.9,
       "artist": "Sean Paul",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_3.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -340,8 +340,8 @@
       "price": 180.2,
       "artist": "Daft Punk",
       "isFavourite": false,
-      "img": "sss.jpg",
-      "desc": "the artist said take him to the moon",
+      "img": "cover_1.png",
+      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3

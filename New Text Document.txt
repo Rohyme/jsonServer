@@ -1,0 +1,12 @@
+id
+name
+price
+singer
+isFavourite
+img
+desc
+addToBucket
+NoInBucket
+releaseDate
+label
+
