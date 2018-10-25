@@ -7,7 +7,7 @@
       "artist": "Santa",
       "isFavourite": false,
       "img": "cover_1.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -22,7 +22,7 @@
       "artist": "Paloma",
       "isFavourite": false,
       "img": "cover_2.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -37,7 +37,7 @@
       "artist": "Lea Michelle",
       "isFavourite": false,
       "img": "cover_3.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -52,7 +52,7 @@
       "artist": "Collbie caillat",
       "isFavourite": false,
       "img": "cover_4.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -67,7 +67,7 @@
       "artist": "Kate",
       "isFavourite": false,
       "img": "cover_5.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -82,7 +82,7 @@
       "artist": "Rozes",
       "isFavourite": false,
       "img": "cover_1.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -97,7 +97,7 @@
       "artist": "Sia",
       "isFavourite": false,
       "img": "cover_2.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -112,7 +112,7 @@
       "artist": "Lea Michele",
       "isFavourite": false,
       "img": "cover_3.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -131,7 +131,7 @@
       "artist": "Sia",
       "isFavourite": false,
       "img": "cover_4.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -146,7 +146,7 @@
       "artist": "Nicki Minaj",
       "isFavourite": false,
       "img": "cover_5.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -161,7 +161,7 @@
       "artist": "Aventura",
       "isFavourite": false,
       "img": "cover_1.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -176,7 +176,7 @@
       "artist": "Disney",
       "isFavourite": false,
       "img": "cover_2.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -191,7 +191,7 @@
       "artist": "Netta",
       "isFavourite": false,
       "img": "cover_3.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -206,7 +206,7 @@
       "artist": "Britney",
       "isFavourite": false,
       "img": "cover_4.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -221,7 +221,7 @@
       "artist": "Lizzo",
       "isFavourite": false,
       "img": "cover_5.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -236,7 +236,7 @@
       "artist": "Maroon",
       "isFavourite": false,
       "img": "cover_1.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -251,7 +251,7 @@
       "artist": "Aventura",
       "isFavourite": false,
       "img": "cover_2.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -266,7 +266,7 @@
       "artist": "Clavin Harris",
       "isFavourite": false,
       "img": "cover_4.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -281,7 +281,7 @@
       "artist": "slawomir",
       "isFavourite": false,
       "img": "cover_5.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -296,7 +296,7 @@
       "artist": "Krewella",
       "isFavourite": false,
       "img": "cover_1.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -311,7 +311,7 @@
       "artist": "Dua lip",
       "isFavourite": false,
       "img": "cover_2.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -326,7 +326,7 @@
       "artist": "Sean Paul",
       "isFavourite": false,
       "img": "cover_3.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
@@ -341,7 +341,7 @@
       "artist": "Daft Punk",
       "isFavourite": false,
       "img": "cover_1.png",
-      "desc": "This is description test text This is description test text,This is description test text This is description test text, This is description test text This is description test text",
+      "desc": "This is description test text This is description test text,This is description test text This is description test ",
       "bucket": {
         "addToBucket": false,
         "NumberAdded": 3
